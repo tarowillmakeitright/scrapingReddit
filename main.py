@@ -13,8 +13,8 @@ reddit_read_only = praw.Reddit(client_id="###########",  # your client id
                                user_agent="#########")  # your user agent
 
 # Authorized instance
-reddit_authorized = praw.Reddit(client_id="UKF10WKArJCs5i1taIfQmQ",  # your client id
-                                client_secret="uJMx1rcreYlBDtcsZm-GEAngxN2BBw",  # your client secret
+reddit_authorized = praw.Reddit(client_id="################",  # your client id
+                                client_secret="###################",  # your client secret
                                 user_agent="#######",  # your user agent
                                 username="#########",  # your reddit username
                                 password="#########")  # your reddit password
